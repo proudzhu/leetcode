@@ -5,10 +5,6 @@
 
 using namespace std;
 
-class TwoSum
-{
-	public:
-		vector<int> twoSum(vector<int> &numbers, int target);
-};
+vector<int> twoSum(vector<int> &numbers, int target);
 
 #endif

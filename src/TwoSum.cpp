@@ -3,7 +3,7 @@
 
 using namespace std;
 
-vector<int> TwoSum::twoSum(vector<int> &numbers, int target)
+vector<int> twoSum(vector<int> &numbers, int target)
 {
 	// Key is the number and value is its index in the vector
 	unordered_map<int, int> hash;
