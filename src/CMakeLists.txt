@@ -9,4 +9,5 @@ add_library(Solutions
 	UglyNumber2.cpp
 	MissingNumber.cpp
 	AddDigits.cpp
+	NimGame.cpp
 	)

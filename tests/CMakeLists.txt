@@ -9,6 +9,7 @@ add_executable(Test main.cpp
 	UglyNumber2Test.cpp
 	MissingNumberTest.cpp
 	AddDigitsTest.cpp
+	NimGameTest.cpp
 	)
 
 target_link_libraries(Test Solutions)
