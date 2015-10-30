@@ -10,6 +10,7 @@ add_executable(Test main.cpp
 	MissingNumberTest.cpp
 	AddDigitsTest.cpp
 	NimGameTest.cpp
+	WordPatternTest.cpp
 	)
 
 target_link_libraries(Test Solutions)

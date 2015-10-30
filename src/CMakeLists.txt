@@ -10,4 +10,5 @@ add_library(Solutions
 	MissingNumber.cpp
 	AddDigits.cpp
 	NimGame.cpp
+	WordPattern.cpp
 	)
