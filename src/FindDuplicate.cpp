@@ -1,6 +1,6 @@
 #include "FindDuplicate.hpp"
 
-int findDuplicate(vector<int> &nums)
+int findDuplicate(std::vector<int> &nums)
 {
 	int low = 0, high = nums.size() - 1;
 

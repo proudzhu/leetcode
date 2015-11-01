@@ -3,8 +3,6 @@
 
 #include <vector>
 
-using namespace std;
-
-vector<int> twoSum(vector<int> &numbers, int target);
+std::vector<int> twoSum(std::vector<int> &numbers, int target);
 
 #endif

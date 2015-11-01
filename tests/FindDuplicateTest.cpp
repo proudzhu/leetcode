@@ -3,6 +3,6 @@
 #include "FindDuplicate.hpp"
 
 TEST_CASE("FindDuplicate") {
-	vector<int> nums{1, 2, 3, 3};
+	std::vector<int> nums{1, 2, 3, 3};
 	REQUIRE(findDuplicate(nums) == 3);
 }

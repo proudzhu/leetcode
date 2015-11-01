@@ -3,8 +3,6 @@
 
 #include <vector>
 
-using namespace std;
-
-int findDuplicate(vector<int>& nums);
+int findDuplicate(std::vector<int>& nums);
 
 #endif

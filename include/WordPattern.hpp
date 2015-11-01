@@ -3,8 +3,6 @@
 
 #include <string>
 
-using namespace std;
-
-bool wordPattern(string pattern, string str);
+bool wordPattern(std::string pattern, std::string str);
 
 #endif
