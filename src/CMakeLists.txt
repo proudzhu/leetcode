@@ -11,4 +11,5 @@ add_library(Solutions
 	AddDigits.cpp
 	NimGame.cpp
 	WordPattern.cpp
+	ValidAnagram.cpp
 	)
