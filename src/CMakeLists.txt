@@ -13,4 +13,5 @@ add_library(Solutions
 	WordPattern.cpp
 	ValidAnagram.cpp
 	PowerOfThree.cpp
+	BinaryTreePaths.cpp
 	)

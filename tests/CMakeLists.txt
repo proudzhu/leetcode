@@ -13,6 +13,7 @@ add_executable(Test main.cpp
 	WordPatternTest.cpp
 	ValidAnagramTest.cpp
 	PowerOfThreeTest.cpp
+	BinaryTreePathsTest.cpp
 	)
 
 target_link_libraries(Test Solutions)
