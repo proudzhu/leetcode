@@ -1,0 +1,6 @@
+#ifndef _BINARYTREEPATHS_HPP
+#define _BINARYTREEPATHS_HPP
+
+
+
+#endif
