@@ -12,4 +12,5 @@ add_library(Solutions
 	NimGame.cpp
 	WordPattern.cpp
 	ValidAnagram.cpp
+	PowerOfThree.cpp
 	)

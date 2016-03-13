@@ -12,6 +12,7 @@ add_executable(Test main.cpp
 	NimGameTest.cpp
 	WordPatternTest.cpp
 	ValidAnagramTest.cpp
+	PowerOfThreeTest.cpp
 	)
 
 target_link_libraries(Test Solutions)
