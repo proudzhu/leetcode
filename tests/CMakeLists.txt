@@ -14,6 +14,7 @@ add_executable(Test main.cpp
 	ValidAnagramTest.cpp
 	PowerOfThreeTest.cpp
 	BinaryTreePathsTest.cpp
+	RemoveDuplicateLettersTest.cpp
 	)
 
 target_link_libraries(Test Solutions)
