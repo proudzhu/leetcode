@@ -19,4 +19,5 @@ add_library(Solutions
 	InvertBinaryTree.cpp
 	DeleteNode.cpp
 	LowestCommonAncestor.cpp
+	PowerOfTwo.cpp
 	)
