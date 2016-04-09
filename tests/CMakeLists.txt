@@ -16,6 +16,7 @@ add_executable(Test main.cpp
 	BinaryTreePathsTest.cpp
 	RemoveDuplicateLettersTest.cpp
 	SameTreeTest.cpp
+	InvertBinaryTreeTest.cpp
 	)
 
 target_link_libraries(Test Solutions)

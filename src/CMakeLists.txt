@@ -16,4 +16,5 @@ add_library(Solutions
 	BinaryTreePaths.cpp
 	RemoveDuplicateLetters.cpp
 	SameTree.cpp
+	InvertBinaryTree.cpp
 	)

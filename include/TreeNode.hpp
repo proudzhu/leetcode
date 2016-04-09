@@ -6,6 +6,7 @@ struct TreeNode {
 	TreeNode *left;
 	TreeNode *right;
 	TreeNode(int x):val(x), left(nullptr), right(nullptr) {}
+	TreeNode(TreeNode *p, int x, TreeNode *q):val(x), left(p), right(q) {}
 };
 
 #endif
