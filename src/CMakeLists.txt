@@ -20,4 +20,5 @@ add_library(Solutions
 	DeleteNode.cpp
 	LowestCommonAncestor.cpp
 	PowerOfTwo.cpp
+	MergeTwoLists.cpp
 	)
