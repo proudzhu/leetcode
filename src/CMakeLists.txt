@@ -18,4 +18,5 @@ add_library(Solutions
 	SameTree.cpp
 	InvertBinaryTree.cpp
 	DeleteNode.cpp
+	LowestCommonAncestor.cpp
 	)
