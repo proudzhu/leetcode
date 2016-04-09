@@ -15,6 +15,7 @@ add_executable(Test main.cpp
 	PowerOfThreeTest.cpp
 	BinaryTreePathsTest.cpp
 	RemoveDuplicateLettersTest.cpp
+	SameTreeTest.cpp
 	)
 
 target_link_libraries(Test Solutions)

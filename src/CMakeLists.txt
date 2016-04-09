@@ -15,4 +15,5 @@ add_library(Solutions
 	PowerOfThree.cpp
 	BinaryTreePaths.cpp
 	RemoveDuplicateLetters.cpp
+	SameTree.cpp
 	)
