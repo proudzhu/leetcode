@@ -21,4 +21,5 @@ add_library(Solutions
 	LowestCommonAncestor.cpp
 	PowerOfTwo.cpp
 	MergeTwoLists.cpp
+	AdditiveNumber.cpp
 	)

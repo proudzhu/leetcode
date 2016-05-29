@@ -19,6 +19,7 @@ add_executable(Test main.cpp
 	InvertBinaryTreeTest.cpp
 	LowestCommonAncestorTest.cpp
 	PowerOfTwoTest.cpp
+	AdditiveNumberTest.cpp
 	)
 
 target_link_libraries(Test Solutions)
