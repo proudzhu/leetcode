@@ -20,6 +20,7 @@ add_executable(Test main.cpp
 	LowestCommonAncestorTest.cpp
 	PowerOfTwoTest.cpp
 	AdditiveNumberTest.cpp
+    ListNodeTest.cpp
 	)
 
 target_link_libraries(Test Solutions)

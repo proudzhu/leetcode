@@ -22,4 +22,5 @@ add_library(Solutions
 	PowerOfTwo.cpp
 	MergeTwoLists.cpp
 	AdditiveNumber.cpp
+    ListNode.cpp
 	)
