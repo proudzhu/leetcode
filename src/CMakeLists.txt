@@ -23,4 +23,5 @@ add_library(Solutions
 	MergeTwoLists.cpp
 	AdditiveNumber.cpp
     ListNode.cpp
+    ReverseKGroup.cpp
 	)

@@ -21,6 +21,7 @@ add_executable(Test main.cpp
 	PowerOfTwoTest.cpp
 	AdditiveNumberTest.cpp
     ListNodeTest.cpp
+    ReverseKGroupTest.cpp
 	)
 
 target_link_libraries(Test Solutions)
