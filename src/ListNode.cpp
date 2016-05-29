@@ -1,4 +1,5 @@
 #include <vector>
+#include <iostream>
 #include "ListNode.hpp"
 
 ListNode* fromVector(std::vector<int> vec)
@@ -35,4 +36,15 @@ bool compareList(ListNode *l, ListNode *p)
     }
 
     return true;
+}
+
+void printList(std::ostream &out, ListNode *head)
+{
+    out << "HEAD ->";
+    while (head) {
+        out << head->val << " -> ";
+        head = head->next;
+    }
+
+    out << "END\n";
 }

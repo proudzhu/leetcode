@@ -10,6 +10,13 @@ TEST_CASE("ListNode") {
     ListNode *l2 = fromVector(vec2);
     ListNode *l3 = fromVector(vec3);
 
+    std::string output{"HEAD -> 1 -> 2 -> 3 -> 4 -> 5 -> END\n"};
+    std::stringstream out;
+    std::string sout;
+
     REQUIRE(compareList(l1, l2) == true);
     REQUIRE(compareList(l1, l3) == false);
+
+    printList(out, l1);
+    std::cout << out.rdbuf();
 }

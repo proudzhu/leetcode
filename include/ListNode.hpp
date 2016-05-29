@@ -2,6 +2,7 @@
 #define _LISTNODE_HPP
 
 #include <vector>
+#include <iostream>
 
 struct ListNode {
 	int val;
@@ -13,5 +14,7 @@ struct ListNode {
 ListNode* fromVector(std::vector<int> vec);
 
 bool compareList(ListNode *l, ListNode *p);
+
+void printList(std::ostream &out, ListNode *head);
 
 #endif
