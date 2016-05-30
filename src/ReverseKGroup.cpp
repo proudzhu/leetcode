@@ -46,8 +46,8 @@ ListNode* reverseKGroup(ListNode* head, int k)
             subfake = step0;
             step0 = end;
             step1 = getNextK(step0, k);
-            printList(std::cout, fake->next);
-            std::cout << std::endl;
+            //printList(std::cout, fake->next);
+            //std::cout << std::endl;
         }
     }
 

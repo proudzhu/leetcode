@@ -17,6 +17,6 @@ TEST_CASE("ListNode") {
     REQUIRE(compareList(l1, l2) == true);
     REQUIRE(compareList(l1, l3) == false);
 
-    printList(out, l1);
-    std::cout << out.rdbuf();
+    //printList(out, l1);
+    //std::cout << out.rdbuf();
 }
