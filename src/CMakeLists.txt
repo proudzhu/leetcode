@@ -24,4 +24,5 @@ add_library(Solutions
 	AdditiveNumber.cpp
     ListNode.cpp
     ReverseKGroup.cpp
+    RotateRight.cpp
 	)

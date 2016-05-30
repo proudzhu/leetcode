@@ -22,6 +22,7 @@ add_executable(Test main.cpp
 	AdditiveNumberTest.cpp
     ListNodeTest.cpp
     ReverseKGroupTest.cpp
+    RotateRightTest.cpp
 	)
 
 target_link_libraries(Test Solutions)
