@@ -24,6 +24,7 @@ add_executable(Test main.cpp
     ReverseKGroupTest.cpp
     RotateRightTest.cpp
     CalculateMinimumHPTest.cpp
+    SortedArrayToBSTTest.cpp
 	)
 
 target_link_libraries(Test Solutions)

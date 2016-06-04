@@ -26,4 +26,5 @@ add_library(Solutions
     ReverseKGroup.cpp
     RotateRight.cpp
     CalculateMinimumHP.cpp
+    SortedArrayToBST.cpp
 	)
