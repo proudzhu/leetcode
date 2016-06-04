@@ -25,4 +25,5 @@ add_library(Solutions
     ListNode.cpp
     ReverseKGroup.cpp
     RotateRight.cpp
+    CalculateMinimumHP.cpp
 	)

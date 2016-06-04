@@ -23,6 +23,7 @@ add_executable(Test main.cpp
     ListNodeTest.cpp
     ReverseKGroupTest.cpp
     RotateRightTest.cpp
+    CalculateMinimumHPTest.cpp
 	)
 
 target_link_libraries(Test Solutions)
