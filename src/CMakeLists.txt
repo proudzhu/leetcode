@@ -28,4 +28,5 @@ add_library(Solutions
     CalculateMinimumHP.cpp
     SortedArrayToBST.cpp
     WordSearch.cpp
+    MergeIntervals.cpp
 	)

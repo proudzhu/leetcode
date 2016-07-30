@@ -26,6 +26,7 @@ add_executable(Test main.cpp
     CalculateMinimumHPTest.cpp
     SortedArrayToBSTTest.cpp
     WordSearchTest.cpp
+    MergeIntervalsTest.cpp
 	)
 
 target_link_libraries(Test Solutions)
