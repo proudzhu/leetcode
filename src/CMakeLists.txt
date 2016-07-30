@@ -29,4 +29,5 @@ add_library(Solutions
     SortedArrayToBST.cpp
     WordSearch.cpp
     MergeIntervals.cpp
+    Combine.cpp
 	)

@@ -27,6 +27,7 @@ add_executable(Test main.cpp
     SortedArrayToBSTTest.cpp
     WordSearchTest.cpp
     MergeIntervalsTest.cpp
+    CombineTest.cpp
 	)
 
 target_link_libraries(Test Solutions)
