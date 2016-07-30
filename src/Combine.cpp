@@ -1,5 +1,9 @@
 #include "Combine.hpp"
 
+/*
+ * This solution come from https://compprog.wordpress.com/2007/10/17/generating-combinations-1/
+ */
+
 static int next_combine(std::vector<int> &comb, int n, int k)
 {
     int i = k - 1;
