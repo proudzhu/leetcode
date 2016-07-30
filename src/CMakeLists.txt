@@ -27,4 +27,5 @@ add_library(Solutions
     RotateRight.cpp
     CalculateMinimumHP.cpp
     SortedArrayToBST.cpp
+    WordSearch.cpp
 	)

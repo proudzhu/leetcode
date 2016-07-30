@@ -25,6 +25,7 @@ add_executable(Test main.cpp
     RotateRightTest.cpp
     CalculateMinimumHPTest.cpp
     SortedArrayToBSTTest.cpp
+    WordSearchTest.cpp
 	)
 
 target_link_libraries(Test Solutions)
