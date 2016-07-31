@@ -30,6 +30,7 @@ add_library(Solutions
     WordSearch.cpp
     MergeIntervals.cpp
     Combine.cpp
+    CombinationSum.cpp
     CombinationSum2.cpp
     CombinationSum3.cpp
 	)

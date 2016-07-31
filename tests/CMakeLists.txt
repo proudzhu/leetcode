@@ -28,6 +28,7 @@ add_executable(Test main.cpp
     WordSearchTest.cpp
     MergeIntervalsTest.cpp
     CombineTest.cpp
+    CombinationSumTest.cpp
     CombinationSum2Test.cpp
     CombinationSum3Test.cpp
 	)
