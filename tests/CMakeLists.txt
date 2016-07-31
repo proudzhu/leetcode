@@ -28,6 +28,7 @@ add_executable(Test main.cpp
     WordSearchTest.cpp
     MergeIntervalsTest.cpp
     CombineTest.cpp
+    CombinationSum2Test.cpp
 	)
 
 target_link_libraries(Test Solutions)
