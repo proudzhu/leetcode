@@ -31,4 +31,5 @@ add_library(Solutions
     MergeIntervals.cpp
     Combine.cpp
     CombinationSum2.cpp
+    CombinationSum3.cpp
 	)
