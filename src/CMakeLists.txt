@@ -33,4 +33,6 @@ add_library(Solutions
     CombinationSum.cpp
     CombinationSum2.cpp
     CombinationSum3.cpp
+    CombinationSum4.cpp
+    SumOfTwoInt.cpp
 	)

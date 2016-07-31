@@ -31,6 +31,8 @@ add_executable(Test main.cpp
     CombinationSumTest.cpp
     CombinationSum2Test.cpp
     CombinationSum3Test.cpp
+    CombinationSum4Test.cpp
+    SumOfTwoIntTest.cpp
 	)
 
 target_link_libraries(Test Solutions)
