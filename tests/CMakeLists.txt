@@ -1,4 +1,5 @@
 include_directories(${LeetCode_SOURCE_DIR}/include)
+include_directories(${LeetCode_SOURCE_DIR}/tests/Catch/single_include/catch2)
 
 add_executable(Test main.cpp
 	TwoSumTest.cpp
