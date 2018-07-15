@@ -35,4 +35,5 @@ add_library(Solutions
     CombinationSum3.cpp
     CombinationSum4.cpp
     SumOfTwoInt.cpp
+    RotateImage.cpp
 	)

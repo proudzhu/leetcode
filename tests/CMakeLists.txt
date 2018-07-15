@@ -33,6 +33,7 @@ add_executable(Test main.cpp
     CombinationSum3Test.cpp
     CombinationSum4Test.cpp
     SumOfTwoIntTest.cpp
+    RotateImageTest.cpp
 	)
 
 target_link_libraries(Test Solutions)
