@@ -35,6 +35,7 @@ add_executable(Test main.cpp
     CombinationSum4Test.cpp
     SumOfTwoIntTest.cpp
     RotateImageTest.cpp
+    MinRemoveToMakeValidTest.cpp
 	)
 
 target_link_libraries(Test Solutions)

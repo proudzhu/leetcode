@@ -36,4 +36,5 @@ add_library(Solutions
     CombinationSum4.cpp
     SumOfTwoInt.cpp
     RotateImage.cpp
+    MinRemoveToMakeValid.cpp
 	)
