@@ -1,5 +1,6 @@
 #include "FrequencySort.hpp"
 #include <unordered_map>
+#include <algorithm>
 
 std::vector<int> frequencySort(std::vector<int>& nums)
 {
@@ -9,7 +10,7 @@ std::vector<int> frequencySort(std::vector<int>& nums)
         m[i] += 1;
     }
 
-    sort(begin(nums), end(nums), [&](int a, int b) {
+    std::sort(begin(nums), end(nums), [&](int a, int b) {
         return m[a] == m[b] ? a > b : m[a] < m[b];
     });
 
