@@ -1,7 +1,7 @@
 #include <string>
 #include <vector>
 #include <cstdint>
-#include "catch.hpp"
+#include <catch2/catch_test_macros.hpp>
 
 std::string triangleType(std::vector<int>& nums)
 {

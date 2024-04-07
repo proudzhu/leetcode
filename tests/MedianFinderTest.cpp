@@ -1,10 +1,11 @@
-#include "catch.hpp"
+#include <catch2/catch_test_macros.hpp>
+#include <cmath>
 
 #include "MedianFinder.hpp"
 
 #define maxRelativeError 0.00001
 
-#define isEqual(a, b) (fabs((a) - (b)) / (b) < maxRelativeError)
+#define isEqual(a, b) (std::fabs((a) - (b)) / (b) < maxRelativeError)
 
 TEST_CASE("MedianFinder") {
 	SECTION("up") {
