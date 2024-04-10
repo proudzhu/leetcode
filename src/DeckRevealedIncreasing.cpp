@@ -1,6 +1,6 @@
 #include <vector>
 #include <deque>
-#include <iostream>
+#include <algorithm>
 #include <catch2/catch_test_macros.hpp>
 
 std::vector<int> deckRevealedIncreasing(std::vector<int>& deck)
